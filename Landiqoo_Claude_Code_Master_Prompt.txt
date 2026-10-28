@@ -1,0 +1,763 @@
+# PROJECT: LANDIQOO — PREMIUM WEB DESIGN STUDIO
+
+Act as a senior UI/UX designer, creative director, brand strategist, and expert frontend developer.
+
+I am building my own web design brand called Landiqoo. I want to create a stunning, professional website that showcases my services, demonstrates my design capabilities, attracts potential clients, and establishes Landiqoo as a premium web design studio.
+
+I will use Claude Code inside VS Code on Windows to build this website.
+
+I am learning web development, so guide me through the process, explain important decisions in simple language, and help me understand the code while building a professional-quality website.
+
+Do not create a generic template. Think like a creative director building the website for a serious, modern design agency.
+
+---
+
+# 1. BRAND IDENTITY
+
+Brand name: Landiqoo
+
+Business: Landing page and website design and development.
+
+Brand positioning:
+Landiqoo creates premium, modern, responsive, and conversion-focused websites for businesses and individuals who want to establish a stronger online presence.
+
+We combine thoughtful design, clear messaging, modern technology, and user-friendly experiences to help clients present their brands professionally.
+
+Brand personality:
+- Premium
+- Modern
+- Creative
+- Professional
+- Trustworthy
+- Innovative
+- Approachable
+
+Brand promise:
+Beautifully designed websites that help businesses and individuals make a stronger first impression online.
+
+Primary objective of the website:
+Turn visitors into potential clients by demonstrating the quality of Landiqoo's work, explaining its services, and making it easy to start a project.
+
+---
+
+# 2. TARGET AUDIENCE
+
+Landiqoo serves both businesses and individuals.
+
+## A. Business Websites
+
+### 1. Restaurants and Cafés
+Websites featuring menus, signature dishes, restaurant information, reservations, and location details.
+
+### 2. Gyms and Fitness Studios
+Websites showcasing training programs, memberships, trainers, class schedules, and trial-session booking options.
+
+### 3. Beauty Salons and Spas
+Websites featuring treatments, service menus, pricing, appointment booking, and visual branding.
+
+### 4. Real Estate Agencies
+Websites showcasing properties, agency services, property details, and lead-generation opportunities.
+
+### 5. E-commerce Brands
+Product-focused landing pages and promotional websites designed to present products attractively and encourage purchases.
+
+### 6. Small Businesses and Startups
+Professional websites that introduce a business, explain its services, establish credibility, and encourage potential customers to get in touch.
+
+## B. Personal Websites
+
+### 7. Personal Brands and Professional Portfolios
+Websites for:
+- Freelancers
+- Web developers
+- UI/UX designers
+- Graphic designers
+- Photographers
+- Content creators
+- Consultants
+- Coaches
+- Students and job seekers
+- Other professionals who want a strong personal online presence
+
+Personal websites can include professional introductions, project portfolios, skills, work experience, services, genuine testimonials when available, downloadable resumes, and contact information.
+
+Each website should reflect the individual's profession, personality, and goals.
+
+A developer's portfolio should not look identical to a photographer's portfolio. A consultant's personal brand should have a different visual approach from a creative designer's portfolio.
+
+Important: Build the Landiqoo agency website first. The individual business and personal websites will become separate portfolio concepts that can be developed after the main website is polished.
+
+---
+
+# 3. VISUAL DESIGN DIRECTION
+
+Use a Hybrid Premium design system.
+
+Combine elegant white sections with carefully selected dark sections, sophisticated typography, subtle gradients, and modern website previews.
+
+The website should feel premium, distinctive, creative, and professionally art-directed.
+
+## Color Palette
+
+Use the following colors as the initial design system:
+- Deep Navy: #0B1020
+- Electric Blue: #4F7CFF
+- Violet Accent: #8B5CF6
+- White: #FFFFFF
+- Light Background: #F7F8FC
+- Primary Text: #111827
+- Secondary Text: #6B7280
+- Border Color: #E5E7EB
+
+Use these colors consistently. Do not apply every accent color everywhere.
+
+## Typography
+
+Use modern, premium typography with a clear hierarchy.
+
+Choose a suitable contemporary font combination, such as:
+- Inter
+- Manrope
+- Plus Jakarta Sans
+
+Select a font pairing that suits the overall design. Avoid using too many different fonts.
+
+## Design Characteristics
+
+- Bold, memorable headlines.
+- Excellent whitespace and spacing.
+- Clear visual hierarchy.
+- Elegant light and dark section transitions.
+- Restrained blue-to-violet gradients.
+- Sophisticated website mockups.
+- Subtle shadows and borders.
+- Polished buttons and hover effects.
+- Smooth scrolling and restrained animations.
+- Modern layouts with deliberate composition.
+- Consistent alignment and spacing.
+- Carefully designed mobile experiences.
+
+Avoid:
+- Generic AI-generated website layouts.
+- Excessive gradients and glowing effects.
+- Overuse of rounded cards.
+- Unnecessary animations.
+- Excessive icons and decorative elements.
+- Crowded sections.
+- Huge blocks of text.
+- Repetitive portfolio cards.
+- Fake statistics and unsupported marketing claims.
+
+The result should look like a premium design studio's real website, not a basic template.
+
+---
+
+# 4. WEBSITE STRUCTURE
+
+Build a polished, responsive, single-page website for Landiqoo.
+
+## SECTION 1: NAVIGATION
+
+Create a clean, premium navigation bar.
+
+Include:
+- Landiqoo logo and brand name.
+- Home
+- Our Work
+- Services
+- Process
+- About
+- A prominent "Let's Talk" button.
+
+Requirements:
+- Sticky navigation.
+- Subtle background or blur effect when appropriate.
+- Smooth scrolling to relevant sections.
+- Clear hover states.
+- Responsive mobile navigation.
+- A clean layout that does not overwhelm the hero section.
+
+Use my existing Landiqoo logo if I provide it. Otherwise, create a simple text-based brand treatment or a minimal geometric placeholder that can be replaced later.
+
+Do not invent a complicated logo.
+
+## SECTION 2: HERO
+
+The hero is the most important section. It must immediately communicate what Landiqoo does and encourage visitors to explore the website.
+
+Headline:
+"Websites That Make Your Brand Impossible to Ignore."
+
+Supporting text:
+"Landiqoo designs modern, premium websites for businesses and individuals who want to stand out, build trust, and make a lasting impression online."
+
+Primary CTA:
+"Start Your Project"
+
+Secondary CTA:
+"Explore Our Work"
+
+Create a visually impressive hero composition using a sophisticated website mockup, layered interface previews, or a carefully designed portfolio collage.
+
+The visual should demonstrate Landiqoo's design capabilities rather than relying on generic stock photography.
+
+Use the brand's blue and violet accents sparingly. The hero must be visually impressive on both desktop and mobile.
+
+## SECTION 3: TRUST AND VALUE STRIP
+
+Immediately after the hero, create a subtle section highlighting Landiqoo's core principles.
+
+Possible messages:
+- Design With Purpose
+- Built for Every Screen
+- Tailored to Your Brand
+- Focused on User Experience
+
+Keep this section elegant and concise. Do not invent client logos, partnerships, or customer numbers.
+
+## SECTION 4: PORTFOLIO
+
+Heading:
+"Good Design. Built With Purpose."
+
+Supporting text:
+"Explore website concepts designed to show how thoughtful design can bring different brands and ideas to life."
+
+Create a visually rich portfolio featuring six concept categories.
+
+### Concept 1: Restaurant Website
+Design direction:
+- Warm, sophisticated visual identity.
+- Beautiful food imagery.
+- Elegant typography.
+- Menu highlights.
+- Reservation-focused CTA.
+- Restaurant location and opening information.
+
+### Concept 2: Fitness Studio Website
+Design direction:
+- Energetic and confident.
+- Strong typography.
+- Bold imagery.
+- Membership information.
+- Trainer or class highlights.
+- Trial-session CTA.
+
+### Concept 3: Real Estate Website
+Design direction:
+- Premium and sophisticated.
+- Large property imagery.
+- Elegant layouts.
+- Featured properties.
+- Property details.
+- Inquiry CTA.
+
+### Concept 4: Beauty and Wellness Website
+Design direction:
+- Refined and elegant.
+- Soft, sophisticated colors.
+- Service and treatment highlights.
+- Pricing information.
+- Appointment CTA.
+
+### Concept 5: E-commerce Landing Page
+Design direction:
+- Product-focused.
+- Strong visual hierarchy.
+- High-quality product imagery.
+- Clear product benefits.
+- Pricing and purchase CTA where appropriate.
+
+### Concept 6: Personal Portfolio Website
+Design direction:
+- A distinctive personal brand.
+- Professional introduction.
+- Selected projects.
+- Skills and experience.
+- Resume or CV section when appropriate.
+- Contact and professional profile links.
+
+Design this concept as a polished professional portfolio for a fictional web developer or designer. It should demonstrate how Landiqoo can create personal websites for freelancers, creators, developers, designers, and professionals.
+
+### Portfolio Requirements
+
+Every portfolio card should contain:
+- A visually compelling website preview.
+- Project or concept name.
+- Industry or category.
+- A concise description.
+- A "View Concept" action.
+
+Use varied visual compositions so the six projects do not look like identical cards with different images. Make the portfolio feel like a carefully curated collection of design work.
+
+These are concept projects, not completed client projects. Label them as concepts wherever necessary. Do not invent client names, testimonials, project results, or performance statistics and present them as real.
+
+Structure the portfolio so each concept can eventually link to its own dedicated website.
+
+For the initial version, the "View Concept" interactions may link to individual project routes if implemented, or open a meaningful project preview. Do not leave dead buttons.
+
+## SECTION 5: SERVICES
+
+Heading:
+"Thoughtful Websites. Designed Around You."
+
+Supporting text:
+"From business landing pages to personal portfolios, we create digital experiences tailored to your goals."
+
+Present the following services.
+
+### Service 1: Business Landing Pages
+Modern landing pages for businesses that need to communicate their value, showcase their offerings, and encourage customer inquiries.
+
+### Service 2: Personal Websites and Portfolios
+Professional websites for freelancers, developers, designers, creators, and individuals who want to showcase their skills, experience, and work.
+
+### Service 3: Website Design and Development
+Responsive website experiences designed around the client's brand, audience, and goals.
+
+### Service 4: Website Redesign
+Modernize an outdated website with improved presentation, structure, usability, and responsive behavior.
+
+### Service 5: Conversion-Focused Design
+Clear messaging, intuitive layouts, and purposeful calls to action that make it easier for visitors to understand the offering and take the next step.
+
+### Service 6: Mobile Optimization
+Responsive experiences designed to look and work well on phones, tablets, and desktop screens.
+
+Use a polished visual layout with concise descriptions and a clear hierarchy. Do not promise guaranteed sales or conversions.
+
+## SECTION 6: WHO WE BUILD FOR
+
+Create a section that clearly communicates that Landiqoo serves both businesses and individuals.
+
+### Category A: For Businesses
+
+Headline:
+"Give Your Business a Stronger Online Presence."
+
+Description:
+"From local businesses to growing brands, we create websites that communicate your value and help customers take the next step."
+
+Include examples:
+- Restaurants
+- Fitness studios
+- Salons
+- Real estate agencies
+- Startups
+- E-commerce brands
+
+CTA:
+"Build My Business Website"
+
+### Category B: For Individuals
+
+Headline:
+"Make Your Work Speak for Itself."
+
+Description:
+"Showcase your skills, projects, and personality with a professional personal website designed around your goals."
+
+Include examples:
+- Developers
+- Designers
+- Freelancers
+- Photographers
+- Creators
+- Consultants
+- Students and professionals
+
+CTA:
+"Build My Portfolio"
+
+Make these two categories visually distinct but consistent with the Landiqoo brand.
+
+The buttons should navigate to relevant sections, project inquiry options, or dedicated routes when implemented. Do not create dead links.
+
+## SECTION 7: WHY LANDIQOO?
+
+Heading:
+"More Than a Website. A Better First Impression."
+
+Highlight the following principles:
+
+### Purposeful Design
+Every section has a reason to exist and supports the website's overall objective.
+
+### Tailored Experiences
+The design reflects the client's industry, personality, audience, and goals.
+
+### Responsive by Design
+Websites are designed to work across mobile, tablet, and desktop.
+
+### Clear Communication
+Content and layouts help visitors quickly understand what the client offers.
+
+### Modern Development
+Use modern frontend practices to create maintainable and efficient websites.
+
+### Collaborative Process
+Keep clients informed and involved throughout the project.
+
+Use a visually interesting layout with concise content. Do not invent awards, certifications, client numbers, or performance results.
+
+## SECTION 8: OUR PROCESS
+
+Heading:
+"From First Idea to Final Launch."
+
+Present a clear four-step process.
+
+### 01 — Discover
+Understand the client's business, audience, requirements, and goals.
+
+### 02 — Design
+Establish the visual direction, content hierarchy, and page layout.
+
+### 03 — Build
+Develop the website and make sure it works across different devices.
+
+### 04 — Launch
+Test the website, fix issues, and prepare it for deployment.
+
+Present the steps using an elegant timeline, connected layout, or another clear visual structure. Explain the process in simple language.
+
+## SECTION 9: ABOUT LANDIQOO
+
+Heading:
+"Small Details. Thoughtful Design. Better Experiences."
+
+Write concise brand copy explaining that Landiqoo focuses on creating thoughtful digital experiences for businesses and individuals.
+
+Emphasize:
+- Attention to detail.
+- Modern visual design.
+- Clear communication.
+- User-friendly experiences.
+- Websites tailored to individual needs.
+
+Keep the tone confident, professional, and approachable.
+
+Do not invent a team, office, company history, or personal achievements. Use brand-focused language that remains truthful for a growing studio.
+
+## SECTION 10: FINAL CALL TO ACTION
+
+Create a visually striking final CTA section. Use a deep navy background with subtle blue-violet accents.
+
+Headline:
+"Your Next Website Starts With One Conversation."
+
+Supporting text:
+"Have a business idea, a personal portfolio, or a website that needs a fresh start? Let's create something that represents you at your best."
+
+Primary CTA:
+"Let's Build Something Great"
+
+Secondary CTA:
+"Explore Our Work"
+
+The CTA should feel confident and inviting rather than aggressive. The primary button should navigate to the contact section or open a properly configured contact method.
+
+## SECTION 11: CONTACT
+
+Create a professional contact section that makes starting a project easy.
+
+Include:
+- Name field.
+- Email field.
+- Project type selector.
+- Message field.
+- Submit button.
+
+Project types should include:
+- Business Landing Page
+- Personal Website
+- Portfolio Website
+- Website Redesign
+- Other
+
+Requirements:
+- Accessible labels.
+- Client-side validation.
+- Clear error messages.
+- Loading and success states when appropriate.
+
+Important: Do not pretend the form sends messages unless a real backend or form submission service has been configured.
+
+If a backend is not configured, explain what is needed to receive submissions and provide a sensible development setup.
+
+Use placeholders for my contact details until I provide them.
+
+## SECTION 12: FOOTER
+
+Include:
+- Landiqoo logo and name.
+- Short brand description.
+- Navigation links.
+- Services links.
+- Instagram link placeholder.
+- Email placeholder.
+- Copyright notice.
+
+Use a clean, premium footer that visually completes the website.
+
+Do not invent a real email address, Instagram username, or social media URL.
+
+---
+
+# 5. TECHNICAL STACK
+
+Build the website using a modern and maintainable frontend stack.
+
+Preferred technologies:
+- React
+- Vite
+- Tailwind CSS
+- Lucide React for icons
+- Framer Motion for animations only when useful
+
+Use compatible versions and follow the correct installation requirements for the selected versions.
+
+If the existing project uses a different setup, inspect it before making changes and explain whether it makes sense to retain or adjust it.
+
+Do not replace or overwrite existing project files without inspecting them first.
+
+## Code Quality
+
+- Use reusable React components.
+- Keep components logically organized.
+- Use clean, understandable naming conventions.
+- Separate repeated UI elements into reusable components.
+- Avoid unnecessary dependencies.
+- Keep the code easy for a beginner to understand.
+- Use semantic HTML.
+- Implement responsive layouts.
+- Ensure accessible contrast and keyboard navigation.
+- Include appropriate alt text for meaningful images.
+- Use optimized images.
+- Avoid layout shifts where practical.
+- Add meaningful hover and focus states.
+- Check that all buttons and links behave as expected.
+- Keep the browser console free from avoidable errors.
+- Ensure the application builds successfully.
+
+## Suggested Project Organization
+
+Use a clear structure similar to:
+
+src/
+  components/
+    Navbar.jsx
+    Hero.jsx
+    ValueStrip.jsx
+    Portfolio.jsx
+    Services.jsx
+    Audience.jsx
+    WhyLandiqoo.jsx
+    Process.jsx
+    About.jsx
+    Contact.jsx
+    FinalCTA.jsx
+    Footer.jsx
+  data/
+    projects.js
+    services.js
+  assets/
+  App.jsx
+  main.jsx
+
+You may adjust the structure when necessary, but explain the reason for any significant change. Do not create empty files just to match this structure.
+
+---
+
+# 6. RESPONSIVE DESIGN REQUIREMENTS
+
+The website must work beautifully on:
+- Mobile phones.
+- Tablets.
+- Laptops.
+- Large desktop displays.
+
+Pay particular attention to:
+- Navigation on small screens.
+- Hero headline wrapping.
+- CTA button sizing.
+- Portfolio grid behavior.
+- Image scaling and cropping.
+- Section spacing.
+- Text readability.
+- Contact form usability.
+- Touch-friendly interactions.
+
+Do not simply shrink the desktop layout to fit mobile. Design the mobile experience intentionally.
+
+Test the layout at multiple viewport sizes using the browser's responsive tools when available.
+
+---
+
+# 7. ANIMATION AND INTERACTION
+
+Use subtle, polished interactions.
+
+Potential effects:
+- Smooth scrolling.
+- Button hover transitions.
+- Gentle portfolio-card interactions.
+- Subtle hero entrance animation.
+- Restrained scroll-triggered reveals.
+- Smooth mobile navigation.
+- Small decorative gradient movements where appropriate.
+
+Animations should support the experience, not distract from it.
+
+Respect reduced-motion preferences.
+
+Avoid heavy animation libraries or effects unless they genuinely improve the design.
+
+Prioritize performance and usability.
+
+---
+
+# 8. LEARNING MODE: TEACH ME WHILE BUILDING
+
+I am learning web development. I want to understand how the website is built, not simply receive a massive block of code.
+
+Follow these rules:
+1. Explain technical concepts in simple, beginner-friendly language.
+2. Inspect the project folder before making changes.
+3. Explain what already exists and what needs to be configured.
+4. Present a short plan before beginning major implementation.
+5. Tell me what each important terminal command does.
+6. Explain the purpose of important files and components.
+7. Build the website in manageable stages.
+8. Explain important design and coding decisions.
+9. Help me diagnose errors rather than hiding them.
+10. Tell me how to start the development server.
+11. Explain how to preview and test the website.
+12. Ask before making major architectural changes.
+13. Avoid unnecessarily complicated code.
+14. Do not explain every trivial line if it makes the process overwhelming.
+15. After each major stage, summarize what was built and what I should check.
+
+When terminal commands are necessary, provide commands that are appropriate for Windows and PowerShell.
+
+Do not assume I already understand npm, React, Vite, components, or Tailwind CSS. Teach me progressively as we build.
+
+---
+
+# 9. DEVELOPMENT WORKFLOW
+
+Follow this order.
+
+### STAGE 1 — Inspect and Plan
+- Inspect the current project folder.
+- Identify existing files and dependencies.
+- Determine whether the project is empty or already configured.
+- Explain the recommended technology stack.
+- Present the implementation plan.
+
+Do not start by overwriting files.
+
+### STAGE 2 — Project Setup
+- Set up React and Vite if required.
+- Configure Tailwind CSS correctly for the chosen version.
+- Install necessary dependencies.
+- Explain how to start the development server.
+- Verify that the application runs.
+
+### STAGE 3 — Design Foundation
+- Establish typography.
+- Define the color palette.
+- Configure spacing and layout conventions.
+- Create reusable buttons and common UI elements.
+- Establish the visual design language.
+
+### STAGE 4 — Navigation and Hero
+- Build the navigation.
+- Create the hero section.
+- Establish the visual identity.
+- Verify desktop and mobile layouts.
+
+### STAGE 5 — Portfolio
+- Build the six portfolio concept cards.
+- Create visually distinct previews.
+- Implement meaningful concept-preview interactions.
+- Label the projects as concepts.
+
+### STAGE 6 — Services and Audience
+- Build the services section.
+- Add the business and individual audience categories.
+- Make both offerings clear and compelling.
+
+### STAGE 7 — Trust, Process, and About
+- Build the value strip.
+- Create the Why Landiqoo section.
+- Add the four-step process.
+- Complete the About section.
+
+### STAGE 8 — CTA, Contact, and Footer
+- Build the final CTA.
+- Create the contact form.
+- Explain any backend or email integration requirements.
+- Complete the footer.
+
+### STAGE 9 — Polish
+- Improve spacing and typography.
+- Refine colors and visual consistency.
+- Add appropriate animations.
+- Check responsiveness.
+- Improve accessibility.
+- Optimize images and performance.
+
+### STAGE 10 — Test and Prepare for Launch
+- Run the appropriate build command.
+- Fix errors and warnings where practical.
+- Check all links and buttons.
+- Test the contact form's configured behavior.
+- Explain how to prepare the site for deployment.
+- Explain the difference between local development and a published website.
+
+Do not claim that the site has been tested or deployed unless you have actually performed those steps.
+
+---
+
+# 10. FINAL QUALITY STANDARD
+
+The finished Landiqoo website should:
+- Look like a professionally designed digital studio website.
+- Have a memorable and consistent visual identity.
+- Combine white and dark sections elegantly.
+- Use blue and violet accents with restraint.
+- Showcase both business landing pages and personal portfolio websites.
+- Communicate the services clearly.
+- Present concept projects honestly.
+- Make it easy for potential clients to contact Landiqoo.
+- Work well on mobile, tablet, and desktop.
+- Use maintainable, beginner-friendly code.
+- Have functional navigation and interactions.
+- Avoid fake testimonials, fabricated client results, and unsupported claims.
+- Be suitable for deployment as the official Landiqoo website.
+
+Think carefully about the visual hierarchy and overall experience. Every section should feel intentional.
+
+Prioritize excellent design, clarity, and usability over unnecessary complexity.
+
+Do not build all six individual portfolio websites now. Build the Landiqoo agency website first, including polished concept previews. The separate portfolio websites can be developed later.
+
+---
+
+# YOUR FIRST TASK
+
+Begin with STAGE 1: Inspect and Plan.
+
+First, inspect the current project folder and identify what is already configured.
+
+Then:
+1. Explain what you found.
+2. Explain the recommended setup.
+3. Present a concise implementation plan.
+4. Tell me the first command I need to run, if any.
+5. Explain what that command does in simple language.
+
+Wait until you have explained the initial plan before proceeding with major implementation.
+
+Let's build Landiqoo into a premium web design brand, one step at a time.
